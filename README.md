@@ -10,6 +10,10 @@ This project uses Mediapipe, OpenCV and Machine Learning to:
 
 
 ## Demo
+
+
+https://user-images.githubusercontent.com/102948566/178134857-d85ccc67-4880-486e-a200-6e598ada1642.mp4
+
 ## Work Flow
 
 1) Import and embedd Mediapipe into OpenCV to map and track poses
@@ -21,7 +25,12 @@ This project uses Mediapipe, OpenCV and Machine Learning to:
 
 Model of Choice: Random Forest
 
+![Random_forest_diagram_complete](https://user-images.githubusercontent.com/102948566/178132319-de3f0bf8-e0b9-434b-be36-dbf1c67ac6e8.png)
+
+
 Model Accuracy:
+
+![score ai](https://user-images.githubusercontent.com/102948566/178132327-7ff1abcf-0fe6-426b-b28a-0dd56c80a9c4.PNG)
 
 ## Limitations and Futureworks
 
